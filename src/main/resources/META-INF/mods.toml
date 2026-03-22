@@ -1,0 +1,12 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="All Rights Reserved"
+
+[[mods]]
+modId="unfairminecraft"
+version="${file.jarVersion}"
+displayName="Unfair Minecraft"
+authors="OpenAI"
+description='''
+Turns Minecraft into a creative nightmare.
+'''
